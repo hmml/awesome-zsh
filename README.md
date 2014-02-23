@@ -42,7 +42,7 @@ This document briefly covers ZSH shell and serves as a quick summary of its many
 
 	% unsetopt auto_cd      # to disable
 
-## Expand paths:
+## Expand paths
 
 	~% cd c/w/m/i<TAB>
     ~% cd coding/work/mobile/ios
